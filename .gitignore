@@ -1,0 +1,33 @@
+# Local Android toolchain and caches
+.android-build/
+.gradle/
+**/.gradle/
+**/build/
+local.properties
+**/local.properties
+.idea/
+*.iml
+
+# Personal history and device captures
+local-data/
+
+# Packages and exports are generated, not source files
+dist/
+*.apk
+*.aab
+
+# Signing credentials and machine configuration
+*.jks
+*.keystore
+*.keystore.lock
+keystore.properties
+.env
+.env.*
+!.env.example
+
+# Crash reports and OS artifacts
+*.log
+hs_err_pid*
+replay_pid*
+Thumbs.db
+.DS_Store

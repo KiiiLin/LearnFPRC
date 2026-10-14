@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">每日学习助手</string>
+    <string name="accessibility_service_name">每日学习助手 · 屏幕操作</string>
+    <string name="accessibility_description">在你点击执行后，识别学习强国屏幕并完成所选任务；仅在本机处理截图，随时可停止。</string>
+</resources>
